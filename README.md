@@ -14,10 +14,16 @@
 git config --global user.name "Tên đăng nhập của bạn"
 ```
   + Ví dụ : git config --global user.name suplongv
+
+---
+
+
 ``` bash
 git config --global user.email "email@domain.com"
 ```
   + Ví dụ : git config --global user.email email@domain.com
+
+---
 
 ##Đẩy code từ REPOSITORY này về máy
 
@@ -43,6 +49,8 @@ git config --global user.email "email@domain.com"
 ```bash
   git pull
 ```
+
+---
 
 ##CODE
 
