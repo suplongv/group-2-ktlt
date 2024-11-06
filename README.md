@@ -56,6 +56,14 @@ git config --global user.email "email@domain.com"
   git push
 ```
 
+- Khi `git push` xong mà nó kêu mình `git push` theo lệnh của nó đề ra thì cứ làm theo nó!
+
+---
+
+HẾT
+
+__CẢM ƠN VÌ ĐÃ ĐỌC ĐẾN ĐÂY ! CHÚC BẠN 1 NGÀY TỐT LÀNH__
+
 
 
 
