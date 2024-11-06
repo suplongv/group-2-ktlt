@@ -1,10 +1,10 @@
-###REPOSITORY NÀY ĐỂ LÀM BÀI TẬP NHÓM KỸ THUẬT LẬP TRÌNH
+<p align="center">
+__###REPOSITORY NÀY ĐỂ LÀM BÀI TẬP NHÓM KỸ THUẬT LẬP TRÌNH__
 
-##NHÓM 2 - KTLT
+__##NHÓM 2 - KTLT__
+</p>
 
-![Logo](https://redis.com/wp-content/uploads/2020/06/blog-async-scaled.jpeg)
-
-##Cài đặt GIT 
+__##Cài đặt GIT__ 
 
 - GIT là 1 công cụ để đẩy code từ laptop (Window...) của bạn lên github : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/win)
                                   laptop (MacOS...) của bạn lên github : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/mac)
