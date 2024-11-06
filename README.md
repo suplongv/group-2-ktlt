@@ -41,9 +41,7 @@ git config --global user.email "email@domain.com"
 ```bash
   git clone https://github.com/suplongv/group-2-ktlt.git
 
-  git init
-
-  git remote add origin https://github.com/suplongv/group-2-ktlt.git
+  cd group-2-ktlt
 
   git branch -M main
 ```
