@@ -1,0 +1,3 @@
+#REPOSITORY NÀY ĐỂ LÀM BÀI TẬP NHÓM KỸ THUẬT LẬP TRÌNH
+
+## NHÓM 2 - KTLT
