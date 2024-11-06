@@ -9,8 +9,7 @@
 
 __##Cài đặt GIT__ 
 
-- GIT là 1 công cụ để đẩy code từ laptop (Window...) của bạn lên github : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/win)
-                                  laptop (MacOS...) của bạn lên github : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/mac)
+- GIT là 1 công cụ để đẩy code từ laptop (Window...) của bạn lên github : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/win) </br> laptop (MacOS...) của bạn lên github : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/mac)
 
 ##GIT
 
