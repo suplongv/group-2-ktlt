@@ -2,9 +2,6 @@
 
 ## NHÓM 2 - KTLT
 
-## Cài Đặt
-Để cài đặt, bạn chỉ cần chạy lệnh sau:
-```bash
-git clone https://github.com/username/repo.git
-cd repo
-npm install
+## Cài đặt GIT 
+
+- GIT là 1 công cụ để đẩy code từ máy tính (laptop, mac...) của bạn lên github : [**TẢI**](https://git-scm.com/downloads/win)
