@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-##NHÓM 2 - KTLT
+##NHÓM 2 - KTLT :wave: :wave:
 </p>
 
 
