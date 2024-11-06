@@ -42,6 +42,8 @@ git config --global user.email "email@domain.com"
   git branch -M main
 ```
 
+---
+
 - Sau khi xong tất cả bước trên thì __CHỈ LÀ BƯỚC ĐƯA CODE VỀ MÁY__
 
 ##__TRƯỚC KHI CODE THÌ PHẢI LƯU Ý PULL CODE VỀ MÁY TRƯỚC RỒI MỚI CODE__
