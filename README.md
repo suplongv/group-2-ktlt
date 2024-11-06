@@ -13,8 +13,50 @@
 ``` bash
 git config --global user.name "Tên đăng nhập của bạn"
 ```
-  + Ví dụ git config --global user.name suplongv
+  + Ví dụ : git config --global user.name suplongv
 ``` bash
 git config --global user.email "email@domain.com"
 ```
-  + Ví dụ git config --global user.email email@ut.edu.vn
+  + Ví dụ : git config --global user.email email@domain.com
+
+##Đẩy code từ REPOSITORY này về máy
+
+- Tạo 1 thư mục folder để chứa những code này (**LƯU Ý : PHẢI SỬ DỤNG VSCODE ĐỂ DỄ PUSH CODE LÊN GITHUB**
+
+- Vào __Terminal__ của [__VISUAL STUDIO CODE__](https://code.visualstudio.com/) và gõ lệnh (__LƯU Ý : PHẢI TRONG CÁI THƯ MỤC FOLDER ĐÃ TẠO TRƯỚC ĐÓ MỚI MỞ TERMINAL__)
+
+- THEO THỨ TỰ TÔI ĐÃ ĐỀ RA NHÉ !  
+```bash
+  git clone https://github.com/suplongv/group-2-ktlt.git
+
+  git init
+
+  git remote add origin https://github.com/suplongv/group-2-ktlt.git
+
+  git branch -M main
+```
+
+- Sau khi xong tất cả bước trên thì __CHỈ LÀ BƯỚC ĐƯA CODE VỀ MÁY__
+
+##__TRƯỚC KHI CODE THÌ PHẢI LƯU Ý PULL CODE VỀ MÁY TRƯỚC RỒI MỚI CODE__
+
+```bash
+  git pull
+```
+
+##CODE
+
+- Sau khi code xong phần của mình thì cứ ghi lệnh như sau
+
+``` bash
+  git add .
+
+  git commit -m "ĐÂY LÀ NỘI DUNG GHI CHÚ MÌNH ĐÃ VIẾT GÌ TRONG CODE"
+
+  git push
+```
+
+
+
+
+
