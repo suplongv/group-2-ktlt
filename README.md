@@ -1,8 +1,11 @@
 <p align="center">
 __###REPOSITORY NÀY ĐỂ LÀM BÀI TẬP NHÓM KỸ THUẬT LẬP TRÌNH__
+</p>
 
+<p align="center">
 __##NHÓM 2 - KTLT__
 </p>
+
 
 __##Cài đặt GIT__ 
 
