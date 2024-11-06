@@ -7,7 +7,7 @@ NHÓM 2 - KTLT :wave: :wave:
 </p>
 
 
-__Cài đặt GIT__ 
+__CÀI ĐẶT GIT__ 
 
 - Git là công cụ giúp bạn quản lý mã nguồn và đẩy code từ máy tính của bạn lên GitHub.
   - __Tải Git cho Windows__ : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/win)
@@ -32,7 +32,7 @@ git config --global user.email "email@domain.com"
 
 ---
 
-__Đẩy code từ REPOSITORY này về máy__
+__ĐẨY CODE TỪ REPOSITORY VỀ MÁY TÍNH__
 
 - Tạo 1 thư mục folder để chứa những code này (**LƯU Ý : PHẢI SỬ DỤNG VSCODE ĐỂ DỄ PUSH CODE LÊN GITHUB**
 
