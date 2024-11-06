@@ -1,9 +1,9 @@
 <p align="center" >
-##REPOSITORY NÀY ĐỂ LÀM BÀI TẬP NHÓM KỸ THUẬT LẬP TRÌNH
+REPOSITORY NÀY ĐỂ LÀM BÀI TẬP NHÓM KỸ THUẬT LẬP TRÌNH
 </p>
 
 <p align="center">
-##NHÓM 2 - KTLT :wave: :wave:
+NHÓM 2 - KTLT :wave: :wave:
 </p>
 
 
@@ -13,7 +13,7 @@ __##Cài đặt GIT__
   - __Tải Git cho Windows__ : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/win)
   - __Tải Git cho macOS__ : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/mac)
 
-##CẤU HÌNH GIT
+__CẤU HÌNH GIT__
 
 - Để Git nhận diện tên và email của bạn, bạn cần cấu hình tài khoản Git.
 - Sau khi tải GIT xong thì mở `GIT BASH` lên và ghi
@@ -32,7 +32,7 @@ git config --global user.email "email@domain.com"
 
 ---
 
-##Đẩy code từ REPOSITORY này về máy
+__Đẩy code từ REPOSITORY này về máy__
 
 - Tạo 1 thư mục folder để chứa những code này (**LƯU Ý : PHẢI SỬ DỤNG VSCODE ĐỂ DỄ PUSH CODE LÊN GITHUB**
 
@@ -51,7 +51,7 @@ git config --global user.email "email@domain.com"
 
 - Sau khi xong tất cả bước trên thì __CHỈ LÀ BƯỚC ĐƯA CODE VỀ MÁY__
 
-##__TRƯỚC KHI CODE THÌ PHẢI LƯU Ý PULL CODE VỀ MÁY TRƯỚC RỒI MỚI CODE__
+__TRƯỚC KHI CODE THÌ PHẢI LƯU Ý PULL CODE VỀ MÁY TRƯỚC RỒI MỚI CODE__
 
 ```bash
   git pull
@@ -59,7 +59,7 @@ git config --global user.email "email@domain.com"
 
 ---
 
-##CODE
+__CODE__
 
 - Sau khi code xong phần của mình thì cứ ghi lệnh như sau
 
@@ -75,7 +75,7 @@ git config --global user.email "email@domain.com"
 
 ---
 
-##__LƯU Ý QUAN TRỌNG :__
+__LƯU Ý QUAN TRỌNG :__
 
 - __Luôn pull code mới nhất__ trước khi bắt đầu làm việc để tránh xung đột.
 - __Không nên commit tất cả các thay đổi cùng lúc__. Nên commit thường xuyên với các thông điệp rõ ràng và dễ hiểu.
