@@ -12,6 +12,8 @@ __CÀI ĐẶT GIT__
 - Git là công cụ giúp bạn quản lý mã nguồn và đẩy code từ máy tính của bạn lên GitHub.
   - __Tải Git cho Windows__ : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/win)
   - __Tải Git cho macOS__ : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/mac)
+ 
+---
 
 __CẤU HÌNH GIT__
 
