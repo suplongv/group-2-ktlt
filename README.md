@@ -9,12 +9,13 @@
 
 __##Cài đặt GIT__ 
 
-- GIT là 1 công cụ để đẩy code từ
-  - laptop (Window...) của bạn lên github : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/win)
-  - laptop (MacOS...) của bạn lên github : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/mac)
+- Git là công cụ giúp bạn quản lý mã nguồn và đẩy code từ máy tính của bạn lên GitHub.
+  - __Tải Git cho Windows__ : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/win)
+  - __Tải Git cho macOS__ : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/mac)
 
-##GIT
+##CẤU HÌNH GIT
 
+- Để Git nhận diện tên và email của bạn, bạn cần cấu hình tài khoản Git.
 - Sau khi tải GIT xong thì mở `GIT BASH` lên và ghi
 ``` bash
 git config --global user.name "Tên đăng nhập của bạn"
@@ -70,13 +71,21 @@ git config --global user.email "email@domain.com"
   git push
 ```
 
-- Khi `git push` xong mà nó kêu mình `git push` theo lệnh của nó đề ra thì cứ làm theo nó!
+- Khi bạn thực hiện lệnh `git push`, Git sẽ đẩy thay đổi của bạn lên GitHub. Nếu Git yêu cầu bạn phải thực hiện thêm một số bước (như cung cấp mật khẩu hoặc token), hãy làm theo hướng dẫn mà nó đưa ra.
+
+---
+
+##__LƯU Ý QUAN TRỌNG :__
+
+- __Luôn pull code mới nhất__ trước khi bắt đầu làm việc để tránh xung đột.
+- __Không nên commit tất cả các thay đổi cùng lúc__. Nên commit thường xuyên với các thông điệp rõ ràng và dễ hiểu.
+- Nếu gặp lỗi trong quá trình push, hãy đọc kỹ thông báo lỗi và làm theo hướng dẫn.
 
 ---
 
 HẾT
 
-__CẢM ƠN VÌ ĐÃ ĐỌC ĐẾN ĐÂY ! CHÚC BẠN 1 NGÀY TỐT LÀNH__
+__Cảm ơn bạn đã đọc hướng dẫn này! Hy vọng bạn sẽ thành công trong việc sử dụng Git và GitHub để làm việc nhóm. Chúc bạn có một ngày làm việc hiệu quả! 🚀__
 
 
 
