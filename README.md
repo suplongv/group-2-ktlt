@@ -2,6 +2,8 @@
 
 ##NHÓM 2 - KTLT
 
+![Logo](https://redis.com/wp-content/uploads/2020/06/blog-async-scaled.jpeg)
+
 ##Cài đặt GIT 
 
 - GIT là 1 công cụ để đẩy code từ laptop (Window...) của bạn lên github : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/win)
