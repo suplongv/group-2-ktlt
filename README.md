@@ -1,9 +1,9 @@
-<p align="center">
-###__REPOSITORY NÀY ĐỂ LÀM BÀI TẬP NHÓM KỸ THUẬT LẬP TRÌNH__
+<p align="center" >
+##REPOSITORY NÀY ĐỂ LÀM BÀI TẬP NHÓM KỸ THUẬT LẬP TRÌNH
 </p>
 
 <p align="center">
-##__NHÓM 2 - KTLT__
+##NHÓM 2 - KTLT
 </p>
 
 
