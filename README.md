@@ -7,7 +7,7 @@ NHÓM 2 - KTLT :wave: :wave:
 </p>
 
 
-__##Cài đặt GIT__ 
+__Cài đặt GIT__ 
 
 - Git là công cụ giúp bạn quản lý mã nguồn và đẩy code từ máy tính của bạn lên GitHub.
   - __Tải Git cho Windows__ : [**TẢI TẠI ĐÂY**](https://git-scm.com/downloads/win)
@@ -56,6 +56,7 @@ __TRƯỚC KHI CODE THÌ PHẢI LƯU Ý PULL CODE VỀ MÁY TRƯỚC RỒI MỚI
 ```bash
   git pull
 ```
+- Lệnh này sẽ giúp bạn cập nhật những thay đổi mới nhất từ các thành viên khác trong nhóm, tránh xung đột khi đẩy code lên.
 
 ---
 
