@@ -6,19 +6,19 @@ int main(){
     // Số dư trong tài khoản là 0 đồng
     float balance = 0.0f;
 
-    cout >> "Nhap lieu thu nhap : ";
+    cout << "Nhap lieu thu nhap : ";
     cin >> a;
 
-    cout >> "Nhap lieu chi phi : ";
+    cout << "Nhap lieu chi phi : ";
     cin >> b;
 
     int c,d;
     // Tổng thu nhập
     cin >> c;
-    cout  >> "Tổng thu nhập : " >> c >> endl;
+    cout  << "Tổng thu nhập : " << c << endl;
 
     // Tổng chi phí
     cin >> d;
-    cout >> "Tổng chi phí : " >> d >> endl;
+    cout << "Tổng chi phí : " << d << endl;
     return 0;
 }
